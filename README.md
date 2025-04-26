@@ -1,4 +1,10 @@
-- 🔭 I’m currently working on a stock market pattern finder.
+🔭 Check out projects I’m currently working on!
+
+Daily Event Schedule for Northeastern's gym (Marino):
+- https://www.marinoschedule.live/
+
+Gerrymandering puzzle game:
+- https://hex-control.vercel.app/
 
 <!--
 **elbert-p/elbert-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
